@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Programming_Projects/Java%20projects/PatientsAndAppointmentsSchedulingMgtSystemServer24291/src/services/implementation/All_usersServiceImpl.java</file>
+            <file>file:/E:/Programming_Projects/Java%20projects/PatientsAndAppointmentsSchedulingMgtSystemServer24291/src/hibernate.cfg.xml</file>
+            <file>file:/E:/Programming_Projects/Java%20projects/PatientsAndAppointmentsSchedulingMgtSystemServer24291/src/model/All_users.java</file>
+            <file>file:/E:/Programming_Projects/Java%20projects/PatientsAndAppointmentsSchedulingMgtSystemServer24291/src/services/All_usersService.java</file>
+            <file>file:/E:/Programming_Projects/Java%20projects/PatientsAndAppointmentsSchedulingMgtSystemServer24291/src/services/Medical_recordsService.java</file>
+            <file>file:/E:/Programming_Projects/Java%20projects/PatientsAndAppointmentsSchedulingMgtSystemServer24291/src/DAO/Medical_records_dao.java</file>
+            <file>file:/E:/Programming_Projects/Java%20projects/PatientsAndAppointmentsSchedulingMgtSystemServer24291/src/controller/Server.java</file>
+            <file>file:/E:/Programming_Projects/Java%20projects/PatientsAndAppointmentsSchedulingMgtSystemServer24291/src/DAO/Appointments_dao.java</file>
+            <file>file:/E:/Programming_Projects/Java%20projects/PatientsAndAppointmentsSchedulingMgtSystemServer24291/src/DAO/All_users_dao.java</file>
+            <file>file:/E:/Programming_Projects/Java%20projects/PatientsAndAppointmentsSchedulingMgtSystemServer24291/src/model/Appointments.java</file>
+            <file>file:/E:/Programming_Projects/Java%20projects/PatientsAndAppointmentsSchedulingMgtSystemServer24291/src/services/AppointmentsService.java</file>
+            <file>file:/E:/Programming_Projects/Java%20projects/PatientsAndAppointmentsSchedulingMgtSystemServer24291/src/DAO/HibernateUtil.java</file>
+            <file>file:/E:/Programming_Projects/Java%20projects/PatientsAndAppointmentsSchedulingMgtSystemServer24291/src/model/Medical_records.java</file>
+            <file>file:/E:/Programming_Projects/Java%20projects/PatientsAndAppointmentsSchedulingMgtSystemServer24291/src/services/implementation/AppointmentsServiceImpl.java</file>
+            <file>file:/E:/Programming_Projects/Java%20projects/PatientsAndAppointmentsSchedulingMgtSystemServer24291/src/services/implementation/Medical_recordsServiceImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
